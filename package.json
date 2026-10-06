@@ -1,0 +1,17 @@
+{
+  "name": "cmpm118_assignment1_langchain_response",
+  "version": "1.0.0",
+  "description": "CMPM 118 LangChain assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@langchain/openai": "^1.2.0",
+    "dotenv": "^17.2.3"
+  }
+}
